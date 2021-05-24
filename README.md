@@ -1,12 +1,14 @@
 # A Color-blind 3-Approximation for Chromatic Correlation Clustering and Improved Heuristics
 Accepted at KDD 2021
-Insert some citation info
+Some info.
 
 # Description
-Contains algorithms for Chromatic Correlation Clustering.
+Maybe just copy the abstract?
 
 # Tutorial
-How to install the repo and call the code. How to reproduce our experiments and plot the results.
+To run the experiments, execute the script ``experiment_real_world.py`` (or ``experiment_synthetic.py``) from the repository root. Note that running the experiments may take a long time. For shorter tests, it is advised to reduce the number of runs.
+
+The data can be evaluated running the different scripts in the ``plot/`` directory.
 
 # Citation
 insert bib-tex
