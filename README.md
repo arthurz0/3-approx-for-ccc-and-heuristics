@@ -14,4 +14,4 @@ The data can be evaluated running the different scripts in the ``plot/`` directo
 insert bib-tex
 
 # Acknowledgements
-Explain where the different data sets are coming from. They do not belong to us and are only included for better reproducability. Please don't sue us. We are only students and don't have any money.
+The data sets belong to their respective owners. They do not belong to us and are only included for better reproducability. The owners are explained in the publication. Please cite them accordingly when using these data sets.
